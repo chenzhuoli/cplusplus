@@ -1,0 +1,4 @@
+addr2line：能从core文件里找到栈信息
+https://www.jianshu.com/p/c2e2b8f8ea0d
+
+.gdbinit: 在gdb里source .gdbinit即可加载并使用
